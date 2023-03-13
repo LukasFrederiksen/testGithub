@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\bin\Debug\net6.0\TestGithubClone.exe
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\bin\Debug\net6.0\TestGithubClone.deps.json
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\bin\Debug\net6.0\TestGithubClone.runtimeconfig.json
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\bin\Debug\net6.0\TestGithubClone.dll
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\bin\Debug\net6.0\TestGithubClone.pdb
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.AssemblyInfo.cs
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.dll
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\refint\TestGithubClone.dll
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.pdb
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\TestGithubClone.genruntimeconfig.cache
+C:\Users\lukas\Desktop\TestCloneRepo\TestGithubClone\TestGithubClone\obj\Debug\net6.0\ref\TestGithubClone.dll
